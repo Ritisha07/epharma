@@ -1,0 +1,31 @@
+body{
+    background-image: url('../images/home123.jpg');
+    background-size:cover;
+    background-position: center;
+    padding: 100px;
+}
+#head{
+    text-align: center;
+    background-color: #d05986;
+    border-radius: 15px;
+}
+#box{
+    max-width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+}
+a,li{
+    list-style-type: none;
+    display: inline;
+    text-decoration: none;
+    color: #272727;
+    font-size: 27px;
+    align-items: center;
+}
+#option{
+    
+        text-align: center;
+        background-color: #d05986;
+        border-radius: 15px;
+        padding: 20px;
+}
